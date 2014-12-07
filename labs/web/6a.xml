@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="6a.css" ?>
+
+<student>PROGRAM 6a
+<stud-info>Student Information</stud-info>
+
+  <stud1>
+         <usn>USN:4GH08CS058</usn>
+         <name>Name:Yogesh</name>
+         <noc>COLLEGE:GECH</noc>
+         <branch>Branch:CSE</branch>
+         <yoj>YOJ:2008</yoj>
+         <eid>EID:yogiks21@gmail.com</eid>
+  </stud1>
+--------------------------------------------
+  <stud2>                                   
+         <usn>USN:4GH08CS056</usn>
+         <name>Name:Vinay</name>
+         <noc>COLLEGE:GECH</noc>
+         <branch>Branch:CSE</branch>
+         <yoj>YOJ:2008</yoj>
+         <eid>EID:vinyasi@gmail.com</eid>
+  </stud2>
+----------------------------------------------
+  <stud3>                              
+         <usn>USN:4GH08CS010</usn>
+         <name>Name:Cehthan</name>
+         <noc>COLLEGE:GECH</noc>
+         <branch>Branch:CSE</branch>
+         <yoj>YOJ:2008</yoj>
+         <eid>EID:chethan007@gmail.com</eid>
+  </stud3>
+</student>
